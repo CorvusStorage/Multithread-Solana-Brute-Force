@@ -32,7 +32,6 @@ process.title = "Multithread Solana Brute-Force by Corvus Codex";
 //BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3 
 //POL, ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0 
 //=============================================================== 
-//Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex 
 //KO-FI: https://ko-fi.com/s/547b50850e 
 //===============================================================   
 
