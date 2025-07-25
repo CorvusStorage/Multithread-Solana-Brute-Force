@@ -33,7 +33,6 @@ process.title = "Multithread Solana Brute-Force by Corvus Codex";
 //POL, ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0 
 //=============================================================== 
 //KO-FI: https://ko-fi.com/s/547b50850e 
-//===============================================================   
 
 const { Keypair } = require('@solana/web3.js'); 
 const fs = require('fs');
