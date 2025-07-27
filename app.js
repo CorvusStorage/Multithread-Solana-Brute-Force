@@ -38,7 +38,7 @@ const { Keypair } = require('@solana/web3.js');
 const fs = require('fs');
 const cluster = require('cluster'); 
 const numCPUs = require('os').cpus().length; // Getting number of CPU cores
-const blessed = require('blessed'); // Importing blessed for terminal UI
+const blessed = require('blessed'); 
 
 function credit(){   
   console.log("=================================================================");   
