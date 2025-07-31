@@ -37,7 +37,7 @@ process.title = "Multithread Solana Brute-Force by Corvus Codex";
 const { Keypair } = require('@solana/web3.js'); 
 const fs = require('fs');
 const cluster = require('cluster'); 
-const numCPUs = require('os').cpus().length; // Getting number of CPU cores
+const numCPUs = require('os').cpus().length;
 const blessed = require('blessed'); 
 
 function credit(){   
