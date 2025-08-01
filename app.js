@@ -57,7 +57,7 @@ function credit(){
 };   
 
 console.clear();
-credit(); // Display credits
+credit();
 
 let addresses; // Declare addresses variable
 addresses = new Set(); // Initialize as Set to store unique addresses
