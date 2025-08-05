@@ -18,7 +18,6 @@ https.request = () => {
     on: () => {}   
   }; 
 };
-
 process.title = "Multithread Solana Brute-Force by Corvus Codex";  
 
 //=============================================================== 
