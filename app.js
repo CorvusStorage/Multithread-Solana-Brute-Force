@@ -11,6 +11,7 @@ http.request = () => {
   }; 
 };
 
+
 https.request = () => {   
   console.warn("Blocked an HTTPS request.");   
   return {     
